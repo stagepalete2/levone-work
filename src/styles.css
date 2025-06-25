@@ -1,0 +1,85 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+.yellow-border{
+  border: 3px solid #f5c94c;
+}
+
+.bg-222{
+  background-color: #222;
+}
+
+.rounded-25{
+  border-radius: 25px;
+}
+
+.input-field{
+  padding: 0.75rem;
+  font-size: 1rem;
+  border-radius: 12px;
+  border: none;
+  background-color: #222;
+  color: #fff;
+  width: 100%;
+}
+
+.select-field{
+  padding: 0.75rem;
+  font-size: 1rem;
+  border-radius: 12px;
+  border: none;
+  background-color: #222;
+  color: #fff;
+  width: 100%;
+}
+
+.start-button{
+  background-color: #f5c94c;
+  color: #000;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 0.5rem;
+  min-width: 120px;
+  font-weight: bold;
+}
+
+
+.card{
+  background-color: #111;
+  border: 3px solid #f5c94c;
+  border-radius: 25px;
+  padding: 2rem;
+  max-width: 500px;
+  width: 100%;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.card h2{
+  color: #f5c94c;
+}
+
+.question {
+  margin: 1.5rem 0;
+  font-size: 1.2rem;
+}
+
+#question-text{
+  color: white;
+}
+
+.ans-button {
+  background-color: #f5c94c;
+  color: #000;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 0.5rem;
+  min-width: 120px;
+  font-weight: bold;
+}
