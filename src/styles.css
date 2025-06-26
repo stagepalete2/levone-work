@@ -54,12 +54,16 @@
   padding: 2rem;
   max-width: 500px;
   width: 100%;
-  margin: 2rem 0;
+  margin: 2rem 2rem;
   text-align: center;
 }
 
 .card h2{
   color: #f5c94c;
+}
+
+.card p{
+  color: white;
 }
 
 .question {
@@ -82,4 +86,22 @@
   margin: 0.5rem;
   min-width: 120px;
   font-weight: bold;
+}
+
+.special-text{
+  /* background-color: #000000; */
+  color: #f5c94c;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  font-size: 1.25rem;
+  cursor: pointer;
+  margin: 0.5rem;
+  min-width: 120px;
+  font-weight: bold;
+}
+
+.error-text {
+    font-weight: bold;
+    font-size: 18px;
 }
